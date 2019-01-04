@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name backplane-rescue)(type Legacy)(uri ${KIPRJMOD}/backplane-rescue.lib)(options "")(descr ""))
+  (lib (name ic880a-spi)(type Legacy)(uri ${KIPRJMOD}/ic880a-spi.lib)(options "")(descr ""))
+  (lib (name headers)(type Legacy)(uri ${KIPRJMOD}/headers.lib)(options "")(descr ""))
+  (lib (name raspi)(type Legacy)(uri ${KIPRJMOD}/raspi.lib)(options "")(descr ""))
+  (lib (name sensirion)(type Legacy)(uri ${KIPRJMOD}/sensirion.lib)(options "")(descr ""))
+  (lib (name regulators)(type Legacy)(uri ${KIPRJMOD}/regulators.lib)(options "")(descr ""))
+)

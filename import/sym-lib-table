@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name RPI-Lora-Gateway-Shield-eagle-import)(type Legacy)(uri ${KIPRJMOD}/RPI-Lora-Gateway-Shield-eagle-import.lib)(options "")(descr ""))
+)

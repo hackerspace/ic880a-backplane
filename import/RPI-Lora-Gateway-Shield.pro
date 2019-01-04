@@ -1,6 +1,10 @@
-update=streda, 02. máj 2018, 14:21:02
+update=Wednesday, 02. May 2018, 20:18:01
 version=1
 last_client=kicad
+[general]
+version=1
+RootSch=
+BoardNm=
 [pcbnew]
 version=1
 LastNetListRead=
@@ -23,18 +27,17 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
+[eeschema]
 version=1
+LibDir=
+[eeschema/libraries]
 [schematic_editor]
 version=1
-PageLayoutDescrFile=
+PageLayoutDescrFile=empty.kicad_wks
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
+SpiceAjustPassiveValues=0
 LabSize=60
-[eeschema]
-version=1
-LibDir=
+ERC_TestSimilarLabels=1
